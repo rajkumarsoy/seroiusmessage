@@ -1,0 +1,2 @@
+[01-Sep-2017 17:30:32 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/rajkumarsoy/public_html/application/controllers/ApiController.php on line 323
+[01-Sep-2017 17:32:16 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/rajkumarsoy/public_html/application/controllers/ApiController.php on line 323
